@@ -1,0 +1,603 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta name="csrf-token" content="rwuewEXhB6XjEOQ0wGl77YWtchq4l2BjjmMq9eJC"/>
+	<meta charset="utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+
+      <meta name="description" content="Website undangan pernikahan santanu dan clara, yang akan di selenggarakan di bandung"/>
+    <meta name="keywords" content="Sribulink,undangan,undanganonline, SribuLink"/>
+    <meta name="language" content="in,en"/>
+    <meta name="distribution" content="Global"/>
+    <meta name="rating" content="General"/>
+    <meta name="robots" content="index,follow"/>
+    <meta name="googlebot" content="index,follow"/>
+    <meta name="google-site-verification" content="Zfa0SPM4vV_xXJbKOlNDTBMFP0WKcHfRaEmIfutTUKg"/>
+    <meta name="revisit-after" content="20 minutes"/>
+    <meta name="expires" content="never"/>
+    <meta name="title" property="og:title" content=""/>
+    <meta name="keywords" content="Sribulink,undangan,undanganonline, SribuLink"/>
+    <meta name="description" property="og:description" content="Website undangan pernikahan santanu dan clara, yang akan di selenggarakan di bandung"/>
+    <meta name="image" property="og:image" content="https://santanudanclara.sribulink.com/storage/uploads/user/24/12/240715031932_jhondoe/241209103320_jamaldansinta/undangan-pernikahan-241227110532.webp"/>
+  
+  <link rel="apple-touch-icon" sizes="120x120" href="https://santanudanclara.sribulink.com/images/favicons/apple-touch-icon.png"/>
+  <link rel="icon" type="image/png" sizes="32x32" href="https://santanudanclara.sribulink.com/images/favicons/favicon-32x32.png"/>
+  <link rel="icon" type="image/png" sizes="16x16" href="https://santanudanclara.sribulink.com/images/favicons/favicon-16x16.png"/>
+  <link rel="manifest" href="https://santanudanclara.sribulink.com/images/favicons/site.webmanifest"/>
+	<title>Website Pernikahan Santanu &amp; Clara</title>
+
+  
+  <!-- untuk hilangkan modal saat kembali -->
+  
+  <!-- Bootstrap CSS -->
+  <link rel="preload" as="style" href="https://santanudanclara.sribulink.com/build/assets/designtemplate-C9d8A67N.css"/><link rel="stylesheet" href="css/designtemplate-C9d8A67N.css" data-navigate-track="reload"/>  <link href="css/aos.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="css/owl.carousel.min.css"/>
+<link rel="stylesheet" href="css/owl.theme.default.min.css"/>
+<link rel="stylesheet" href="css/lightbox.min.css"/>
+
+<link rel="stylesheet" href="css/style.css"/>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+  .fonts,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
+    font-family: "Cormorant Infant", serif;
+    font-weight: 300
+  }
+</style>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+</style>
+
+
+</head>
+
+<body>
+  <main>
+        <div class="fixed-top bg-black border-dark border-bottom py-2">
+      <div class="container text-center text-light" style="font-family: &#39;Arial&#39;, &#39;Helvetica&#39;, sans-serif;">
+        Amri & Fira
+      </div>
+    </div>
+    <div class="py-2 text-center">
+      Amri & Fira
+    </div>
+        
+
+
+
+
+<div id="loading">
+<div class="justify-content-center jimu-primary-loading"></div>
+</div>
+
+<div class="bg-cover">
+  <div id="cover">
+    <div class="d-flex justify-content-between">
+      <img src="imgs/asset-top-left.png" class="asset-top-left animate-leaf-1"/>
+      <img src="imgs/asset-top-right.png" class="asset-top-right animate-leaf-2"/>
+    </div>
+    <div class="container" style="margin-top: -120px;">
+      <div class="card-cover text-center py-5" data-aos="fade-up" data-aos-duration="2000">
+        <div class="">
+          <img src="imgs/ornament.png" width="100"/>
+                    <div class="text-center">
+                     <br><br>
+                      </div>
+                    <div class="text-dark mt-3">Undangan Pernikahan</div>
+          <div class="my-3">
+                        <h1 class="fonts text-primary">Amri &amp; Fira</h1>
+                      </div>
+                    <h5 class="text-dark">
+            Sabtu - 
+            <span class="h1">23</span> - 
+            Agustus
+          </h5>
+          <h4 class="text-dark">2025</h4>
+          
+        </div>
+                
+        <a href="#profil" class="open-invite btn btn-primary">
+          <i class="bi bi-envelope me-2"></i>Buka Undangan
+        </a>
+        <br><br><br><br>
+      </div>
+    </div>
+    <div class="asset-container" style="margin-top: -90px;">
+      <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
+      <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
+      <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="pt-5" id="profil">
+  <div class="container">
+    <div class="card-cover-2">
+      <div class="text-center" data-aos="fade-up" data-aos-duration="2000">
+        <img src="imgs/ornament-2.png" alt="Ornament Wayang - Sribulink" width="60" class="mb-3"/>
+        <h3 class="text-dark">Kami Yang Berbahagia</h3>
+        <p class="">Dan diantara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri</p>
+        <h5 class="fonts text-primary">Sabtu, 23 Agustus 2025</h5>
+        <p class=""><i class="bi bi-geo me-2"></i>Jl. Kapten Rahmad Buddin Psr 5. GG. Jambu Lor. Podo Rukun Rengas Pulau Medan Marelan</p>
+      </div>
+            <div class="d-flex justify-content-center align-items-center my-5">
+        <img src="adat-jawa/pria.png" class="kotak rounded-circle" width="100" alt="#"/>
+        <i class="bi bi-heart-fill mx-4"></i>
+        <img src="adat-jawa/wanita.png" class="kotak rounded-circle" width="100" alt="#"/>
+      </div>
+      <div class="text-center mt-4">
+        <h3 class="fonts text-primary">Saidi Amri</h3>
+        <div class="small">Santanu satrianu adalah anak ke 3 dari 4 bersaudara. Pertemuan dengan pujaan hati awal pandangan pertama awalnya hanya sapa ringan, perlahan perasaan itu tumbuh tanpa kami sadari.</div>
+        <div class="">
+                    
+          <div class="d-inline-flex justify-content-center mx-2">
+            <a href="https://facebook.com/sribumomen" target="_blank" class="mt-3 btn btn-primary btn-bulat">
+              <i class="icon bi bi-facebook"></i>
+            </a>
+          </div>
+                              
+          <div class="d-inline-flex justify-content-center mx-2">
+            <a href="https://www.tiktok.com/@sribumomen" target="_blank" class="mt-3 btn btn-primary btn-bulat">
+              <i class="icon bi bi-tiktok"></i>
+            </a>
+          </div>
+                              
+          <div class="d-inline-flex justify-content-center mx-2">
+            <a href="https://instagram.com/sribumomen" target="_blank" class="mt-3 btn btn-primary btn-bulat">
+              <i class="icon bi bi-instagram"></i>
+            </a>
+          </div>
+                              
+          <div class="d-inline-flex justify-content-center mx-2">
+            <a href="https://twitter.com/sribumomen" target="_blank" class="mt-3 btn btn-primary btn-bulat">
+              <i class="icon bi bi-twitter"></i>
+            </a>
+          </div>
+                  </div>
+      </div>
+      <div class="my-4 text-center">
+        <h2 class="text-dark">&amp;</h2>
+      </div>
+      <div class="text-center mt-4">
+        <h3 class="fonts text-primary">hafiza Safira</h3>
+        <div class="small">hafiza Safira adalah anak ke 2 dari 3 bersaudara. Pertemuan dengan pujaan hati awal pandangan pertama awalnya hanya sapa ringan, perlahan perasaan itu tumbuh tanpa kami sadari.</div>
+        <div class="">
+                    
+          <div class="d-inline-flex justify-content-center mx-2">
+            <a href="https://facebook.com/sribumomen" target="_blank" class="mt-3 btn btn-primary btn-bulat">
+              <i class="icon bi bi-facebook"></i>
+            </a>
+          </div>
+                              
+          <div class="d-inline-flex justify-content-center mx-2">
+            <a href="https://www.tiktok.com/@sribumomen" target="_blank" class="mt-3 btn btn-primary btn-bulat">
+              <i class="icon bi bi-tiktok"></i>
+            </a>
+          </div>
+                              
+          <div class="d-inline-flex justify-content-center mx-2">
+            <a href="https://instagram.com/sribumomen" target="_blank" class="mt-3 btn btn-primary btn-bulat">
+              <i class="icon bi bi-instagram"></i>
+            </a>
+          </div>
+                              
+          <div class="d-inline-flex justify-content-center mx-2">
+            <a href="https://twitter.com/sribumomen" target="_blank" class="mt-3 btn btn-primary btn-bulat">
+              <i class="icon bi bi-twitter"></i>
+            </a>
+          </div>
+                  </div>
+      </div>
+          </div>
+  </div>
+  <div class="asset-container" style="margin-top: -90px;">
+    <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
+    <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
+    <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
+  </div>
+</div>
+
+
+
+<div class="pt-5" id="cerita">
+  <div class="container">
+    <div class="text-center mb-3 text-light" data-aos="fade-up" data-aos-duration="2000">
+      <img src="imgs/ornament-3.png" alt="Ornament Wayang - Sribulink" width="60" class="mb-3"/>
+      <h3 class="text-white">Cerita Cinta Kami</h3>
+      Sekilas cerita yang membawa kami hingga pada titik ini
+    </div>
+    <ul class="timeline animate-box">
+            <li class="animate-box">
+        <div class="timeline-badge" style="background-image:url(&#39;https://santanudanclara.sribulink.com/storage/uploads/user/24/12/240715031932_jhondoe/241209103320_jamaldansinta/takdir-di-balik-senja-241217093636.webp&#39;);"></div>
+        <div class="timeline-panel">
+          <div class="timeline-heading">
+            <h4 class="timeline-title text-dark">Takdir di Balik Senja</h4>
+            <span class="date"><i class="bi bi-calendar-heart me-2"></i>Senin, 18 Februari 2019</span>
+          </div>
+          <div class="timeline-body">
+            Di bawah langit jingga, kami bertemu untuk pertama kalinya. Senja menjadi saksi perjalanan kami, dari percakapan sederhana hingga mimpi-mimpi besar yang ingin kami wujudkan bersama. Kini, kami bersiap untuk memulai babak baru dalam hidup kami
+          </div>
+        </div>
+      </li>
+            <li class="animate-box">
+        <div class="timeline-badge" style="background-image:url(&#39;https://santanudanclara.sribulink.com/storage/uploads/user/24/12/240715031932_jhondoe/241209103320_jamaldansinta/dari-sapa-menjadi-cinta-241217094113.webp&#39;);"></div>
+        <div class="timeline-panel">
+          <div class="timeline-heading">
+            <h4 class="timeline-title text-dark">Dari Sapa Menjadi Cinta</h4>
+            <span class="date"><i class="bi bi-calendar-heart me-2"></i>Selasa, 14 Juni 2022</span>
+          </div>
+          <div class="timeline-body">
+            Awalnya hanya sapa ringan, perlahan menjadi obrolan panjang. Hari demi hari, perasaan itu tumbuh tanpa kami sadari. Hingga akhirnya, cinta membawa kami ke momen indah ini—menyatukan dua hati menjadi satu
+          </div>
+        </div>
+      </li>
+            <li class="animate-box">
+        <div class="timeline-badge" style="background-image:url(&#39;https://santanudanclara.sribulink.com/storage/uploads/user/24/12/240715031932_jhondoe/241209103320_jamaldansinta/bertemu-di-waktu-yang-tepat-241217094147.webp&#39;);"></div>
+        <div class="timeline-panel">
+          <div class="timeline-heading">
+            <h4 class="timeline-title text-dark">Bertemu di Waktu yang Tepat</h4>
+            <span class="date"><i class="bi bi-calendar-heart me-2"></i>Sabtu, 17 September 2022</span>
+          </div>
+          <div class="timeline-body">
+            Kami tidak pernah tahu kapan cinta akan datang, tetapi takdir mempertemukan kami di waktu yang sempurna. Perjalanan ini penuh tawa, cerita, dan tantangan yang menjadikan cinta kami semakin kuat
+          </div>
+        </div>
+      </li>
+            <li class="animate-box">
+        <div class="timeline-badge" style="background-image:url(&#39;https://santanudanclara.sribulink.com/storage/uploads/user/24/12/240715031932_jhondoe/241209103320_jamaldansinta/kisah-dua-dunia-yang-bertemu-241217094215.webp&#39;);"></div>
+        <div class="timeline-panel">
+          <div class="timeline-heading">
+            <h4 class="timeline-title text-dark">Kisah Dua Dunia yang Bertemu</h4>
+            <span class="date"><i class="bi bi-calendar-heart me-2"></i>Selasa, 17 Januari 2023</span>
+          </div>
+          <div class="timeline-body">
+            Kami berasal dari dunia yang berbeda, namun cinta menyatukan perbedaan itu. Bersama, kami belajar untuk saling melengkapi, hingga akhirnya yakin bahwa kami adalah jawaban untuk satu sama lain.
+          </div>
+        </div>
+      </li>
+          </ul>
+  </div>
+  <div class="asset-container mt-2">
+    <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
+    <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
+    <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
+  </div>
+</div>
+
+
+
+<div class="pt-5" id="undangan">
+  <div class="container">
+    <div class="text-center mb-3 text-light" data-aos="fade-up" data-aos-duration="2000">
+      <img src="imgs/ornament-3.png" alt="Ornament Wayang - Sribulink" width="60" class="mb-3"/>
+      <h3 class="text-white">Undangan dan Acara</h3>
+      Kami mengundang Anda untuk menghadiri acara ini, kedatangan Anda sungguh berarti. Mari rayakan kebahagiaan ini bersama-sama.
+    </div>
+    <div class="p-4 card mt-4 text-center" data-aos="fade-up" data-aos-duration="2000">
+      <div class="">
+        <h6 class="mb-4 card p-3 bg-light text-dark">Akad Nikah<br>08:00 - Selesai</h6>
+
+         <h6 class="mb-4 card p-3 bg-light text-dark">Resepsi <br>10:00 - Selesai</h6>
+        <h5 class="mb-0 text-dark"></h5>
+        <div>Sabtu, 23 Agustus 2025</div>
+        <div class="mt-4"><i class="bi bi-geo me-2"></i>Jl. Kapten Rahmad Buddin Psr 5. GG. Jambu Lor. Podo Rukun Rengas Pulau Medan Marelan</div>
+        <a href="https://www.google.com/calendar/render?action=TEMPLATE&amp;text=Akad Nikah&amp;dates=2025-08-23&amp;details=8:00 - Selesai&amp;location=Jl. Kapten Rahmad Buddin Psr 5. GG. Jambu Lor. Podo Rukun Rengas Pulau Medan Marelan" target="_blank" class="btn btn-primary mt-4">
+            <i class="bi bi-calendar3 me-2"></i>Simpan Tanggal
+        </a>
+      </div>
+    </div>
+<div class="p-4 card mt-4 text-center" data-aos="fade-up" data-aos-duration="2000">
+  <h6 class="mb-4 card p-3 bg-light text-dark">Turut Mengundang</h6>
+
+  <div class="row">
+    <!-- Pihak Wanita -->
+    <div class="col-md-6 mb-3 text-start">
+      <div class="card p-2 bg-light text-center">
+        <strong>Pihak Wanita</strong>
+      </div>
+      <ul class="mt-2">
+        <li>Alm. H.Misdi / Almh. Tuminem (Kakek/Nenek)</li>
+        <li>Hj.Wagiyem S.Pd / H.Karmadi (Bude/Pakde)</li>
+        <li>Jumiati / Sunarto (Bulek/Paklek)</li>
+        <li>Voningsih / Rahmad (Bulek/Paklek)</li>
+        <li>Srimaulida / Andi (Kakak/Abang)</li>
+        <li>Sukoto / Sutinem (Pakde/Bude)</li>
+        <li>Suwekno / Suhaimi (Pakde/Bude)</li>
+        <li>Tuginem / Eddy Kuntoro S.Pd (Bude/Pakde)</li>
+        <li>Rafiqa Salsabila (Kakak)</li>
+        <li>Aisyah Khairinniswa (Adik)</li>
+      </ul>
+    </div>
+
+    <!-- Pihak Pria -->
+    <div class="col-md-6 mb-3 text-start">
+      <div class="card p-2 bg-light text-center">
+        <strong>Pihak Pria</strong>
+      </div>
+      <ul class="mt-2">
+        <li>Alm. Sakun / Almh. Tukiyem (Kakek/Nenek)</li>
+        <li>Topik Hidayat / Siti (Pakcik/Makcik)</li>
+        <li>Iwan Efendi / Raima (Pakcik/Makcik)</li>
+        <li>Zenab / Ari (Ibu/Om)</li>
+        <li>Nana Permata Sari / Arman (Ibu/Om)</li>
+        <li>Riani / Margono (Bibi/Paman)</li>
+        <li>Legito / Mawik (Pakde/Bude)</li>
+        <li>Iswanto / Yuli (Paklek/Bulek)</li>
+        <li>M. Sahri / Anggi (Abang/Kakak)</li>
+        <li>Fitri Handayani / Andre (Kakak/Abang)</li>
+        <li>Ade Syahputra (Adik)</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- asset bawah -->
+<div class="asset-container mt-2">
+  <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
+  <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
+  <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
+</div>
+
+
+
+<div class="pt-5" id="peta">
+  <div class="container">
+    <div class="card-cover-2">
+      <div class="text-center mb-3" data-aos="fade-up" data-aos-duration="2000">
+        <img src="imgs/ornament-2.png" alt="Ornament Wayang - Sribulink" width="60" class="mb-3"/>
+        <h3 class="text-dark">Peta Lokasi</h3>
+        Anda dapat menuju lokasi acara kami dengan bantuan peta di bawah ini. Atau Anda bisa buka di Google Maps
+        <div class="mt-3">
+          <a href="https://maps.app.goo.gl/WwpTriBDvRppKdAHA?g_st=ac" target="_blank" class="btn btn-primary">
+              <i class="bi bi-geo me-2"></i>Buka Di Google Maps
+          </a>
+        </div>
+      </div>
+            <link rel="stylesheet" href="css/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+      <script src="js/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+      <div id="map" class="ratio ratio-1x1 mt-4" loading="lazy" data-aos="fade-up" data-aos-duration="2000"></div>
+      
+<script>
+  var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+      osmAttrib = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      osm = L.tileLayer(osmUrl, {maxZoom: 18, attribution: osmAttrib});
+
+  var map = L.map('map').setView([3.709350, 98.651568], 17).addLayer(osm);
+
+  // Custom icon pakai gambar lokasi.png
+  var customIcon = L.icon({
+    iconUrl: 'adat-jawa/lokasi.png', // path ke file gambar
+    iconSize:     [40, 40], // ukuran gambar
+    iconAnchor:   [20, 40], // titik "ujung bawah" icon
+    popupAnchor:  [0, -40]  // posisi popup relatif ke icon
+  });
+
+  // Marker dengan gambar custom
+  L.marker([3.709350, 98.651568], { icon: customIcon })
+    .addTo(map)
+    .bindPopup('Lokasi Acara<br /><div class="mempelai">Santanu Satriani & Clara Aulia</div>')
+    .openPopup();
+</script>
+
+
+          </div>
+  </div>
+  <div class="asset-container" style="margin-top: -90px;">
+    <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
+    <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
+    <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
+  </div>
+</div>
+
+
+
+<div class="pt-5" id="kado">
+  <div class="container">
+    <div class="">
+      <div class="text-center text-light" data-aos="fade-up" data-aos-duration="2000">
+        <img src="imgs/ornament-2.png" alt="Ornament Wayang - Sribulink" width="60" class="mb-3"/>
+        <h3 class="text-white">Kirim Hadiah</h3>
+        Jika Anda ingin mengirimkan kado nikah, silakan kirim dengan cara di bawah ini
+      </div>
+            <div class="card text-center mt-3" data-aos="fade-up" data-aos-duration="2000">
+        <div class="card-body">
+                    <img src="imgs/241217094424.webp" alt="" class="w-100 mb-3"/>
+                    <p class="m-0">Mandiri</p>
+          <h5 class="text-dark my-2">123456789</h5>
+          <p class="small">A/N SribuLink</p>
+          <input type="text" id="textToCopy0" value="123456789" readonly="" class="d-none"/>
+          <button onclick="copyText(&#39;123456789&#39;)" class="btn btn-primary mt-3">
+              <i class="bi bi-copy me-2"></i>Salin No Rekening
+          </button>
+        </div>
+      </div>
+            <script>
+        function copyText(noRekening) {
+          navigator.clipboard.writeText(noRekening).then(function() {
+            alert("No rekening berhasil disalin: " + noRekening);
+          }, function(err) {
+            alert("Gagal menyalin no rekening: ", err);
+          });
+        }
+      </script>
+          </div>
+  </div>
+  <div class="asset-container">
+    <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
+    <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
+    <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
+  </div>
+</div>
+
+
+
+<div class="pt-5" id="galeri">
+  <div class="container">
+    <div class="text-center mb-3 text-light" data-aos="fade-up" data-aos-duration="2000">
+      <img src="imgs/ornament-3.png" alt="Ornament Wayang - Sribulink" width="60" class="mb-3"/>
+      <h3 class="text-white">Galeri Foto</h3>
+      Momen-momen yang berhasil kami abadikan, kami bagikan juga untuk Anda.
+    </div>
+    <div class="row gx-3" data-masonry="{&#34;percentPosition&#34;: true }">
+            <div class="col-6 mt-3" data-aos="fade-up" data-aos-duration="2000">
+        <div class="card text-center">
+          <a class="example-image-link" href="https://santanudanclara.sribulink.com/storage/uploads/user/24/12/240715031932_jhondoe/241209103320_jamaldansinta/241228022211.webp" data-lightbox="example-set" data-title="Langkah Pertama Menuju Bahagia">
+            <img class="example-image w-100 rounded-2" src="imgs/241228022211.webp" alt="Langkah Pertama Menuju Bahagia"/>
+          </a>
+        </div>
+      </div>
+            <div class="col-6 mt-3" data-aos="fade-up" data-aos-duration="2000">
+        <div class="card text-center">
+          <a class="example-image-link" href="https://santanudanclara.sribulink.com/storage/uploads/user/24/12/240715031932_jhondoe/241209103320_jamaldansinta/241212092559.webp" data-lightbox="example-set" data-title="Clara dalam Nuansa Bahagia">
+            <img class="example-image w-100 rounded-2" src="imgs/241212092559.webp" alt="Clara dalam Nuansa Bahagia"/>
+          </a>
+        </div>
+      </div>
+            <div class="col-6 mt-3" data-aos="fade-up" data-aos-duration="2000">
+        <div class="card text-center">
+          <a class="example-image-link" href="https://santanudanclara.sribulink.com/storage/uploads/user/24/12/240715031932_jhondoe/241209103320_jamaldansinta/241212092442.webp" data-lightbox="example-set" data-title="Cinta dalam Harmoni">
+            <img class="example-image w-100 rounded-2" src="imgs/241212092442.webp" alt="Cinta dalam Harmoni"/>
+          </a>
+        </div>
+      </div>
+            <div class="col-6 mt-3" data-aos="fade-up" data-aos-duration="2000">
+        <div class="card text-center">
+          <a class="example-image-link" href="https://santanudanclara.sribulink.com/storage/uploads/user/24/12/240715031932_jhondoe/241209103320_jamaldansinta/241212092401.webp" data-lightbox="example-set" data-title="Pesona Elegan Clara">
+            <img class="example-image w-100 rounded-2" src="imgs/241212092401.webp" alt="Pesona Elegan Clara"/>
+          </a>
+        </div>
+      </div>
+          </div>
+  </div>
+  <div class="asset-container mt-2">
+    <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
+    <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
+    <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
+  </div>
+</div>
+
+
+
+
+
+<div class="pt-5">
+  <div class="container">
+    <div class="text-center" data-aos="fade-up" data-aos-duration="2000">
+      <i class="bi bi-quote text-primary fs-1"></i>
+      <h3 class="text-white mb-3">Surah Ar-Rum (30) : Ayat 21</h3>
+      <div class="text-white">
+        <p>وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ</p><p><br/></p><p>&#34;Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir&#34;</p>
+      </div>
+    </div>
+  </div>
+  <div class="asset-container mt-2">
+    <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
+    <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
+    <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
+  </div>
+</div>
+
+
+
+
+<button id="mute" onclick="mute();" class="musik btn btn-dark btn-bulat"><i class="bi bi-volume-up"></i></button>
+<audio id="audio"><source src="sound/muara.mp3" type="audio/mpeg"/></audio>
+
+  </main>
+  <div class="swal-success" data-swal=""></div>
+  <div class="swal-error" data-swal=""></div>
+  
+  <link rel="modulepreload" href="https://santanudanclara.sribulink.com/build/assets/template-BOEsi5Is.js"/><script type="module" src="js/template-BOEsi5Is.js" data-navigate-track="reload"></script>  <script src="js/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="js/aos.js"></script>
+  <script>
+      AOS.init();
+  </script>
+  
+  <script src="js/sweetalert2@11"></script>
+  <script>
+    // Check for success message
+    const successMessage = $('.swal-success').data('swal');
+    if(successMessage){
+      Swal.fire({
+        title: "Berhasil...",
+        text: successMessage,
+        icon: "success",
+        showConfirmButton: false,
+        timer: 2500
+      });
+    }
+
+    // Check for error message
+    const errorMessage = $('.swal-error').data('swal');
+    if(errorMessage){
+      Swal.fire({
+        title: "Gagal...",
+        text: errorMessage,
+        icon: "error",
+        showConfirmButton: false,
+        timer: 2500
+      });
+    }
+    </script>
+
+  <script src="js/lightbox-plus-jquery.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/masonry.pkgd.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var grid = document.querySelector('[data-masonry]');
+    imagesLoaded(grid, function () {
+      new Masonry(grid, {
+        percentPosition: true
+      });
+    });
+  });
+</script>
+<script src="js/main.js"></script>
+
+  <script>
+    window.addEventListener('load', function() {
+      setTimeout(function() {
+        if (window.location.hash) {
+          history.replaceState(null, null, ' ');
+        }
+        window.scrollTo(0, 0);
+      }, 100);
+    });
+  </script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+    const formUcapan = document.getElementById('formUcapan');
+    const kirimUcapanText = document.getElementById('kirim_ucapantext');
+    
+    // Dapatkan path URL untuk membuat kunci unik di localStorage
+    const currentPath = window.location.pathname;
+
+    // Cek localStorage untuk status pengiriman pesan
+    if (localStorage.getItem('kirim_ucapan_' + currentPath)) {
+        formUcapan.style.display = 'none';
+        kirimUcapanText.style.display = 'block';
+    } else {
+        formUcapan.style.display = 'block';
+        kirimUcapanText.style.display = 'none';
+    }
+
+    const form = document.getElementById('formUcapan');
+    
+    form.addEventListener('submit', function () {
+        // Simpan status pesan terkirim di localStorage dengan kunci unik
+        localStorage.setItem('kirim_ucapan_' + currentPath, 'true');
+    });
+});
+  </script>
+
+
+
+
+</body></html>
