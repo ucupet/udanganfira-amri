@@ -309,14 +309,14 @@ Siapa sangka, orang yang dulu hanya sebatas sapaan di pagi hari kini menjadi sah
     </div>
   </div>
 </div>
-
+  </div>
 <!-- asset bawah -->
 <div class="asset-container mt-2">
   <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
   <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
   <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
 </div>
-
+<div>
 
 
 <div class="bg-cover" id="peta">
@@ -328,80 +328,88 @@ Siapa sangka, orang yang dulu hanya sebatas sapaan di pagi hari kini menjadi sah
         Anda dapat menuju lokasi acara kami dengan bantuan peta di bawah ini. Atau Anda bisa buka di Google Maps
         <div class="mt-3">
           <a href="https://maps.app.goo.gl/WwpTriBDvRppKdAHA?g_st=ac" target="_blank" class="btn btn-primary">
-              <i class="bi bi-geo me-2"></i>Buka Di Google Maps
+            <i class="bi bi-geo me-2"></i>Buka Di Google Maps
           </a>
         </div>
       </div>
-            <link rel="stylesheet" href="css/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+
+      <link rel="stylesheet" href="css/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
       <script src="js/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+
       <div id="map" class="ratio ratio-1x1 mt-4" loading="lazy" data-aos="fade-up" data-aos-duration="2000"></div>
-      
-<script>
-  var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-      osmAttrib = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-      osm = L.tileLayer(osmUrl, {maxZoom: 18, attribution: osmAttrib});
 
-  var map = L.map('map').setView([3.709350, 98.651568], 17).addLayer(osm);
+      <script>
+        var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+            osmAttrib = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            osm = L.tileLayer(osmUrl, {maxZoom: 18, attribution: osmAttrib});
 
-  // Custom icon pakai gambar lokasi.png
-  var customIcon = L.icon({
-    iconUrl: 'adat-jawa/lokasi.png', // path ke file gambar
-    iconSize:     [40, 40], // ukuran gambar
-    iconAnchor:   [20, 40], // titik "ujung bawah" icon
-    popupAnchor:  [0, -40]  // posisi popup relatif ke icon
-  });
+        var map = L.map('map').setView([3.709350, 98.651568], 17).addLayer(osm);
 
-  // Marker dengan gambar custom
-  L.marker([3.709350, 98.651568], { icon: customIcon })
-    .addTo(map)
-    .bindPopup('Lokasi Acara<br /><div class="mempelai">Saidi Amrri & Hafiza Safira</div>')
-    .openPopup();
-</script>
-</div> <!-- tutup #peta -->
-<div class="asset-container">
-  <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
-  <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
-  <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
+        // Custom icon
+        var customIcon = L.icon({
+          iconUrl: 'adat-jawa/lokasi.png',
+          iconSize: [40, 40],
+          iconAnchor: [20, 40],
+          popupAnchor: [0, -40]
+        });
+
+        L.marker([3.709350, 98.651568], { icon: customIcon })
+          .addTo(map)
+          .bindPopup('Lokasi Acara<br /><div class="mempelai">Saidi Amrri & Hafiza Safira</div>')
+          .openPopup();
+      </script>
+    </div>
+  </div>
 </div>
 
+<!-- Asset untuk peta -->
+  <div class="asset-container" style="margin-top: -150px;">
+    <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
+    <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
+    <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
+  </div>
 
+<!-- Section Kirim Hadiah -->
 <div class="pt-5" id="kado">
   <div class="container">
-    <div class="">
-      <div class="text-center text-light" data-aos="fade-up" data-aos-duration="2000">
-        <img src="imgs/ornament-2.png" alt="Ornament Wayang - Sribulink" width="60" class="mb-3"/>
-        <h3 class="text-white">Kirim Hadiah</h3>
-        Jika Anda ingin mengirimkan kado nikah, silakan kirim dengan cara di bawah ini
+    <div class="text-center text-light" data-aos="fade-up" data-aos-duration="2000">
+      <img src="imgs/ornament-2.png" alt="Ornament Wayang - Sribulink" width="60" class="mb-3"/>
+      <h3 class="text-white">Kirim Hadiah</h3>
+      Jika Anda ingin mengirimkan kado nikah, silakan kirim dengan cara di bawah ini
+    </div>
+
+    <div class="card text-center mt-3" data-aos="fade-up" data-aos-duration="2000">
+      <div class="card-body">
+        <img src="imgs/241217094424.webp" alt="" class="w-100 mb-3"/>
+        <p class="m-0">Mandiri</p>
+        <h5 class="text-dark my-2">123456789</h5>
+        <p class="small">A/N SribuLink</p>
+        <input type="text" id="textToCopy0" value="123456789" readonly class="d-none"/>
+        <button onclick="copyText('123456789')" class="btn btn-primary mt-3">
+          <i class="bi bi-copy me-2"></i>Salin No Rekening
+        </button>
       </div>
-            <div class="card text-center mt-3" data-aos="fade-up" data-aos-duration="2000">
-        <div class="card-body">
-                    <img src="imgs/241217094424.webp" alt="" class="w-100 mb-3"/>
-                    <p class="m-0">Mandiri</p>
-          <h5 class="text-dark my-2">123456789</h5>
-          <p class="small">A/N SribuLink</p>
-          <input type="text" id="textToCopy0" value="123456789" readonly="" class="d-none"/>
-          <button onclick="copyText(&#39;123456789&#39;)" class="btn btn-primary mt-3">
-              <i class="bi bi-copy me-2"></i>Salin No Rekening
-          </button>
-        </div>
-      </div>
-            <script>
-        function copyText(noRekening) {
-          navigator.clipboard.writeText(noRekening).then(function() {
-            alert("No rekening berhasil disalin: " + noRekening);
-          }, function(err) {
-            alert("Gagal menyalin no rekening: ", err);
-          });
-        }
-      </script>
-          </div>
+    </div>
+
+    <script>
+      function copyText(noRekening) {
+        navigator.clipboard.writeText(noRekening).then(function() {
+          alert("No rekening berhasil disalin: " + noRekening);
+        }, function(err) {
+          alert("Gagal menyalin no rekening: " + err);
+        });
+      }
+    </script>
   </div>
+
+  <!-- Asset untuk kado -->
   <div class="asset-container">
     <img src="imgs/asset-bottom.png" class="asset-bottom img-fluid"/>
     <img src="imgs/asset-bottom-left.png" class="asset-bottom-left animate-leaf-2"/>
     <img src="imgs/asset-bottom-right.png" class="asset-bottom-right animate-leaf-1"/>
   </div>
 </div>
+
 
 
 
